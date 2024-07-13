@@ -1,0 +1,3 @@
+[submodule "photogram"]
+	path = photogram
+	url = https://github.com/mishrarohit10/photogram
